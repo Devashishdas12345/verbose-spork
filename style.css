@@ -1,0 +1,29 @@
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+.heading button {
+    float: right;
+    border: 1px solid snow;
+}
+
+#start , #status{
+    font-size: 22px;
+}
+
+#canvas {
+    border: 3px solid snow;
+    box-shadow: 4px 4px 18px sandybrown;
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+}
+
+body {
+    margin: 5px;
+}
